@@ -39,6 +39,16 @@
     "experiments": {
       "typedRoutes": true,
       "tsconfigPaths": true
-    }
+    
+    },
+    "extra": {
+      "router": {
+        "origin": false
+      },
+      "eas": {
+        "projectId": "b0fc8649-1473-4b77-9cb3-da0c121a55a7"
+      }
+    },
+    "owner": "silverdollor"
   }
 }
